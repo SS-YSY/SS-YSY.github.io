@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-  <title>Hexo</title>
+  <title>WSX&#39;s blog</title>
   
-  
+  <subtitle>眺望远方，去寻找大海的尽头！</subtitle>
   <link href="https://ss-ysy.github.io/atom.xml" rel="self"/>
   
   <link href="https://ss-ysy.github.io/"/>
@@ -10,7 +10,7 @@
   <id>https://ss-ysy.github.io/</id>
   
   <author>
-    <name>John Doe</name>
+    <name>SS-YSY</name>
     
   </author>
   
