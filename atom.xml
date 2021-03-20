@@ -6,7 +6,7 @@
   <link href="https://ss-ysy.github.io/atom.xml" rel="self"/>
   
   <link href="https://ss-ysy.github.io/"/>
-  <updated>2021-03-13T11:24:36.333Z</updated>
+  <updated>2021-03-20T07:39:54.819Z</updated>
   <id>https://ss-ysy.github.io/</id>
   
   <author>
@@ -17,18 +17,18 @@
   <generator uri="https://hexo.io/">Hexo</generator>
   
   <entry>
-    <title></title>
-    <link href="https://ss-ysy.github.io/2021/03/13/%E7%AC%91%E7%AC%91/"/>
-    <id>https://ss-ysy.github.io/2021/03/13/%E7%AC%91%E7%AC%91/</id>
-    <published>2021-03-13T11:24:32.425Z</published>
-    <updated>2021-03-13T11:24:36.333Z</updated>
+    <title>学习！</title>
+    <link href="https://ss-ysy.github.io/2021/03/20/%E5%AD%A6%E4%B9%A0%E5%AD%A6%E4%B9%A0/"/>
+    <id>https://ss-ysy.github.io/2021/03/20/%E5%AD%A6%E4%B9%A0%E5%AD%A6%E4%B9%A0/</id>
+    <published>2021-03-20T07:35:44.250Z</published>
+    <updated>2021-03-20T07:39:54.819Z</updated>
     
-    <content type="html"><![CDATA[<p>嘻嘻嘻，哈哈哈</p>]]></content>
+    <content type="html"><![CDATA[<p>好好学习，天天向上！</p>]]></content>
     
     
       
       
-    <summary type="html">&lt;p&gt;嘻嘻嘻，哈哈哈&lt;/p&gt;
+    <summary type="html">&lt;p&gt;好好学习，天天向上！&lt;/p&gt;
 </summary>
       
     
@@ -38,18 +38,18 @@
   </entry>
   
   <entry>
-    <title>忘忧草</title>
-    <link href="https://ss-ysy.github.io/2021/03/13/%E5%BF%98%E5%BF%A7%E8%8D%89/"/>
-    <id>https://ss-ysy.github.io/2021/03/13/%E5%BF%98%E5%BF%A7%E8%8D%89/</id>
-    <published>2021-03-13T03:20:23.307Z</published>
-    <updated>2021-03-13T03:24:30.211Z</updated>
+    <title>第一篇博客</title>
+    <link href="https://ss-ysy.github.io/2021/03/13/%E7%AC%91%E8%B5%B7%E6%9D%A5/"/>
+    <id>https://ss-ysy.github.io/2021/03/13/%E7%AC%91%E8%B5%B7%E6%9D%A5/</id>
+    <published>2021-03-13T11:24:32.425Z</published>
+    <updated>2021-03-20T07:39:30.551Z</updated>
     
-    <content type="html"><![CDATA[<p>忘忧忘忧，欢乐无忧</p>]]></content>
+    <content type="html"><![CDATA[<p>This is my first blog.<br>嘻嘻嘻，哈哈哈~</p>]]></content>
     
     
       
       
-    <summary type="html">&lt;p&gt;忘忧忘忧，欢乐无忧&lt;/p&gt;
+    <summary type="html">&lt;p&gt;This is my first blog.&lt;br&gt;嘻嘻嘻，哈哈哈~&lt;/p&gt;
 </summary>
       
     
